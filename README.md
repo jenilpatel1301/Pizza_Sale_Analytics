@@ -64,5 +64,7 @@ These visualizations empower decision-makers with actionable insights to optimiz
 The integration of SQL and Tableau proves to be a powerful combination for data analysis and visualization, enabling data-driven decisions to drive business success. Further exploration and analysis can reveal additional opportunities for growth and efficiency
 
 
+## Link
+See on Tableau Public: [Dashboard](https://public.tableau.com/app/profile/jenil.patel2862/viz/Jenil_Pizza_Sales_Report/BestWorstSeller)
 
 
